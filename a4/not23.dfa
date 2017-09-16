@@ -1,0 +1,31 @@
+2
+0
+1
+8
+init
+lead0
+11mod3
+10mod3
+12mod3
+00mod3
+01mod3
+02mod3
+init
+2
+11mod3
+12mod3
+14
+init 0 lead0
+init 1 11mod3
+11mod3 0 02mod3
+11mod3 1 10mod3
+12mod3 0 01mod3
+12mod3 1 12mod3
+10mod3 0 00mod3
+10mod3 1 11mod3
+00mod3 0 00mod3
+00mod3 1 11mod3
+01mod3 0 02mod3
+01mod3 1 10mod3
+02mod3 0 01mod3
+02mod3 1 12mod3

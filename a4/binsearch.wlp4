@@ -1,0 +1,33 @@
+int binsearch(int* arr, int size, int value) {
+  int partitionSize = 0;
+  int index = 0;
+  int returnIndex = 0;
+
+  partitionSize = size;
+  index = size / 2;
+  returnIndex = 0 - 1;
+
+  while (partitionSize > 0) {
+    if (*(arr + index) == value) {
+      returnIndex = index;
+      partitionSize = 0;
+    }
+    else {
+      if (*(arr + index) < value) {
+        if (partitionSize % 2 == 0) {
+          partitionSize = partitionSize / 2 - 1;
+        }
+        else {
+          partitionSize = partitionSize / 2;
+        }
+        index = index + partitionSize / 2 + 1;     
+      }
+      else {
+        partitionSize = partitionSize / 2;
+        index = index - partitionSize + (partitionSize / 2);
+      }
+    }
+  }
+
+  return returnIndex;
+}

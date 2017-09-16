@@ -1,0 +1,35 @@
+4
+cat
+dog
+iguana
+mouse
+5
+init
+cat_state
+dog_state
+iguana_state
+mouse_state
+init
+1
+mouse_state
+20
+init cat cat_state
+init dog init
+init iguana init
+init mouse init
+cat_state cat cat_state
+cat_state iguana cat_state
+cat_state mouse cat_state
+cat_state dog dog_state
+dog_state iguana iguana_state
+dog_state cat dog_state
+dog_state dog dog_state
+dog_state mouse dog_state
+iguana_state mouse mouse_state
+iguana_state cat iguana_state
+iguana_state dog iguana_state
+iguana_state iguana iguana_state
+mouse_state mouse mouse_state
+mouse_state cat mouse_state
+mouse_state dog mouse_state
+mouse_state iguana mouse_state

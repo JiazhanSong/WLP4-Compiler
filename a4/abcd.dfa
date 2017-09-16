@@ -1,0 +1,45 @@
+4
+a
+b
+c
+d
+7
+init
+a_state
+ab_state
+abc_state
+abca_state
+abcab_state
+abcabd_state
+init
+1
+abcabd_state
+28
+init a a_state
+init b init
+init c init
+init d init
+a_state a a_state
+a_state b ab_state
+a_state c init
+a_state d init
+ab_state a a_state
+ab_state b init
+ab_state c abc_state
+ab_state d init
+abc_state a abca_state
+abc_state b init
+abc_state c init
+abc_state d init
+abca_state a a_state
+abca_state b abcab_state
+abca_state c init
+abca_state d init
+abcab_state a a_state
+abcab_state b init
+abcab_state c abc_state
+abcab_state d abcabd_state
+abcabd_state a abcabd_state
+abcabd_state b abcabd_state
+abcabd_state c abcabd_state
+abcabd_state d abcabd_state

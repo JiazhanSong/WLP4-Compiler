@@ -1,0 +1,259 @@
+80
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+(
+)
+{
+}
+=
+!
+<
+>
++
+-
+*
+/
+%
+,
+;
+[
+]
+&
+10
+init
+singleChar
+doubleChar
+equalSign
+<Sign
+>Sign
+exclamationMark
+ID
+NUM
+zero
+init
+8
+singleChar
+doubleChar
+equalSign
+<Sign
+>Sign
+ID
+NUM
+zero
+156
+init ( singleChar
+init ) singleChar
+init { singleChar
+init } singleChar
+init + singleChar
+init - singleChar
+init * singleChar
+init / singleChar
+init % singleChar
+init , singleChar
+init ; singleChar
+init [ singleChar
+init ] singleChar
+init & singleChar
+init = equalSign
+equalSign = doubleChar
+init ! exclamationMark
+exclamationMark = doubleChar
+init < <Sign
+init > >Sign
+<Sign = doubleChar
+>Sign = doubleChar
+init 0 zero
+init 1 NUM
+init 2 NUM
+init 3 NUM
+init 4 NUM
+init 5 NUM
+init 6 NUM
+init 7 NUM
+init 8 NUM
+init 9 NUM
+NUM 0 NUM
+NUM 1 NUM
+NUM 2 NUM
+NUM 3 NUM
+NUM 4 NUM
+NUM 5 NUM
+NUM 6 NUM
+NUM 7 NUM
+NUM 8 NUM
+NUM 9 NUM
+init a ID
+init b ID
+init c ID
+init d ID
+init e ID
+init f ID
+init g ID
+init h ID
+init i ID
+init j ID
+init k ID
+init l ID
+init m ID
+init n ID
+init o ID
+init p ID
+init q ID
+init r ID
+init s ID
+init t ID
+init u ID
+init v ID
+init w ID
+init x ID
+init y ID
+init z ID
+init A ID
+init B ID
+init C ID
+init D ID
+init E ID
+init F ID
+init G ID
+init H ID
+init I ID
+init J ID
+init K ID
+init L ID
+init M ID
+init N ID
+init O ID
+init P ID
+init Q ID
+init R ID
+init S ID
+init T ID
+init U ID
+init V ID
+init W ID
+init X ID
+init Y ID
+init Z ID
+ID a ID
+ID b ID
+ID c ID
+ID d ID
+ID e ID
+ID f ID
+ID g ID
+ID h ID
+ID i ID
+ID j ID
+ID k ID
+ID l ID
+ID m ID
+ID n ID
+ID o ID
+ID p ID
+ID q ID
+ID r ID
+ID s ID
+ID t ID
+ID u ID
+ID v ID
+ID w ID
+ID x ID
+ID y ID
+ID z ID
+ID A ID
+ID B ID
+ID C ID
+ID D ID
+ID E ID
+ID F ID
+ID G ID
+ID H ID
+ID I ID
+ID J ID
+ID K ID
+ID L ID
+ID M ID
+ID N ID
+ID O ID
+ID P ID
+ID Q ID
+ID R ID
+ID S ID
+ID T ID
+ID U ID
+ID V ID
+ID W ID
+ID X ID
+ID Y ID
+ID Z ID
+ID 0 ID
+ID 1 ID
+ID 2 ID
+ID 3 ID
+ID 4 ID
+ID 5 ID
+ID 6 ID
+ID 7 ID
+ID 8 ID
+ID 9 ID
