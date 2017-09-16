@@ -1,6 +1,6 @@
 # WLP4-Compiler
 
-Compiler parts for my CS241 course at uWaterloo. Compiler is divided into assignments which were handed out throughout the course. Some code may be slightly messy due to time constraints, but there are no functional errors as is scored perfectly on code testing. Assignments also include certain questions on creating CFGs and DFGs taught in the course.
+Compiler parts for my CS241 course at uWaterloo. Compiler is divided into assignments which were handed out throughout the course. Some code may be slightly messy due to time constraints, but there are no functional errors as I scored perfectly on code testing. Assignments also include certain questions on creating CFGs and DFGs taught in the course.
 
 The language used in the course is called WLP4. See WLP4 description page: https://www.student.cs.uwaterloo.ca/~cs241/wlp4/WLP4.html
 
